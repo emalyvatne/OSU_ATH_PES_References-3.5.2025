@@ -8,7 +8,32 @@ Ohio State Sport Science
 
 ## 📝 GENERAL REFERENCES  
 
-Driller, M., & Leabeater, A. (2023). Fundamentals or Icing on Top of the Cake? A Narrative Review of Recovery Strategies and Devices for Athletes. Sports, 11(11), Article 11. https://doi.org/10.3390/sports11110213
+Al Zoubi, O., Misaki, M., Bodurka, J., Kuplicki, R., Wohlrab, C., Schoenhals, W. A., Refai, H. H., Khalsa, S. S., Stein, M. B., Paulus, M. P., & Feinstein, J. S. (2021). Taking the body off the mind: Decreased functional connectivity between somatomotor and default‐mode networks following Floatation‐REST. Human Brain Mapping, 42(10), 3216–3227. https://doi.org/10.1002/hbm.25429  
+
+Bieuzen, F., Bleakley, C. M., & Costello, J. T. (2013). Contrast Water Therapy and Exercise Induced Muscle Damage: A Systematic Review and Meta-Analysis. PLOS ONE, 8(4), e62356. https://doi.org/10.1371/journal.pone.0062356  
+
+Bood, S. Å., Sundequist, U., Kjellgren, A., Norlander, T., Nordström, L., Nordenström, K., & Nordström, G. (2006). Eliciting the relaxation response with the help of flotation-rest (restricted environmental stimulation technique) in patients with stress-related ailments. International Journal of Stress Management, 13, 154–175. https://doi.org/10.1037/1072-5245.13.2.154  
+
+Driller, M., & Leabeater, A. (2023). Fundamentals or Icing on Top of the Cake? A Narrative Review of Recovery Strategies and Devices for Athletes. Sports, 11(11), Article 11. https://doi.org/10.3390/sports11110213  
+
+Feinstein, J. S., Khalsa, S. S., Yeh, H., Al Zoubi, O., Arevian, A. C., Wohlrab, C., Pantino, M. K., Cartmell, L. J., Simmons, W. K., Stein, M. B., & Paulus, M. P. (2018). The Elicitation of Relaxation and Interoceptive Awareness Using Floatation Therapy in Individuals With High Anxiety Sensitivity. Biological Psychiatry. Cognitive Neuroscience and Neuroimaging, 3(6), 555–562. https://doi.org/10.1016/j.bpsc.2018.02.005  
+
+Flux, M. C., Fine, T. H., Poplin, T., Al Zoubi, O., Schoenhals, W. A., Schettler, J., Refai, H. H., Naegele, J., Wohlrab, C., Yeh, H.-W., Lowry, C. A., Levine, J. C., Smith, R., Khalsa, S. S., & Feinstein, J. S. (2022). Exploring the acute cardiovascular effects of Floatation-REST. Frontiers in Neuroscience, 16. https://doi.org/10.3389/fnins.2022.995594  
+
+Halson, S. L. (2014). Monitoring Training Load to Understand Fatigue in Athletes. Sports Medicine, 44(S2), 139–147. https://doi.org/10.1007/s40279-014-0253-z  
+
+Hohenauer, E., Taeymans, J., Baeyens, J.-P., Clarys, P., & Clijsen, R. (2015). The Effect of Post-Exercise Cryotherapy on Recovery Characteristics: A Systematic Review and Meta-Analysis. PloS One, 10(9), e0139028. https://doi.org/10.1371/journal.pone.0139028  
+
+Jonsson, K., & Kjellgren, A. (2017). Characterizing the experiences of flotation-REST (Restricted Environmental Stimulation Technique) treatment for generalized anxiety disorder (GAD): A phenomenological study. European Journal of Integrative Medicine, 12, 53–59. https://doi.org/10.1016/j.eujim.2017.04.011  
+
+Kinugasa, T., & Kilding, A. E. (2009). A comparison of post-match recovery strategies in youth soccer players. Journal of Strength and Conditioning Research, 23(5), 1402–1407. https://doi.org/10.1519/JSC.0b013e3181a0226a  
+
+Nédélec, M., McCall, A., Carling, C., Legall, F., Berthoin, S., & Dupont, G. (2013). Recovery in Soccer: Part II—Recovery Strategies. Sports Medicine, 43(1), 9–22. https://doi.org/10.1007/s40279-012-0002-0  
+
+Peake, J. M., Neubauer, O., Della Gatta, P. A., & Nosaka, K. (2017). Muscle damage and inflammation during recovery from exercise. Journal of Applied Physiology, 122(3), 559–570. https://doi.org/10.1152/japplphysiol.00971.2016  
+
+Versey, N. G., Halson, S. L., & Dawson, B. T. (2013). Water immersion recovery for athletes: Effect on exercise performance and practical recommendations. Sports Medicine (Auckland, N.Z.), 43(11), 1101–1130. https://doi.org/10.1007/s40279-013-0063-8
+
 
 ## 😴 MASTERING YOUR SLEEP  
 
