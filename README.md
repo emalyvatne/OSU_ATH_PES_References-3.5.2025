@@ -56,3 +56,42 @@ Versey, N. G., Halson, S. L., & Dawson, B. T. (2013). Water immersion recovery f
 9. Mah, C., Anguera, J., Gazzaley, A., & Luke, A. (2017). SLEEP LOADING IMPROVES VISUAL SEARCH RESPONSE TIME AND REDUCES FATIGUE IN PROFESSIONAL BASEBALL PLAYERS. Sleep, 40(suppl_1), A278–A278.https://doi.org/10.1093/sleepj/zsx050.748  
 
 10. Bolin, D. J. (2019). Sleep Deprivation and Its Contribution to Mood and Performance Deterioration in College Athletes: Current Sports Medicine Reports, 18(8), 305–310.https://doi.org/10.1249/JSR.0000000000000621
+
+## ⚡ PHOTOBIOMODULATION  
+
+Ailioaie, L. M., & Litscher, G. (2021). Photobiomodulation and Sports: Results of a Narrative Review. Life, 11(12), 1339. https://doi.org/10.3390/life11121339  
+
+Aver Vanin, A., De Marchi, T., Silva Tomazoni, S., Tairova, O., Leão Casalechi, H., De Tarso Camillo De Carvalho, P., Bjordal, J. M., & Leal-Junior, E. C. (2016). Pre-Exercise Infrared Low-Level Laser Therapy (810 nm) in Skeletal Muscle Performance and Postexercise Recovery in Humans, What Is the Optimal Dose? A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Photomedicine and Laser Surgery, 34(10), 473–482. https://doi.org/10.1089/pho.2015.3992  
+
+de Paiva, P. R. V., Tomazoni, S. S., Johnson, D. S., Vanin, A. A., Albuquerque-Pontes, G. M., Machado, C. dos S. M., Casalechi, H. L., de Carvalho, P. de T. C., & Leal-Junior, E. C. P. (2016). Photobiomodulation therapy (PBMT) and/or cryotherapy in skeletal muscle restitution, what is better? A randomized, double-blinded, placebo-controlled clinical trial. Lasers in Medical Science, 31(9), 1925–1933. https://doi.org/10.1007/s10103-016-2071-z  
+
+Ferlito, J. V., Ferlito, M. V., Leal-Junior, E. C. P., Tomazoni, S. S., & De Marchi, T. (2021). Comparison between cryotherapy and photobiomodulation in muscle recovery: A systematic review and meta-analysis. Lasers in Medical Science, 37(3), 1375–1388. https://doi.org/10.1007/s10103-021-03442-7  
+
+Ferraresi, C., Huang, Y.-Y., & Hamblin, M. R. (2016). Photobiomodulation in human muscle tissue: An advantage in sports performance? Journal of Biophotonics, 9(11–12), 1273–1299. https://doi.org/10.1002/jbio.201600176  
+
+Flores, L. J. F., De Souza Campos, F., Baumann, L., Weber, M. G., Barazetti, L. K., Nampo, F. K., & De Paula Ramos, S. (2023). Photobiomodulation does not improve anaerobic performance in well-trained cyclists. Lasers in Medical Science, 38(1), 134. https://doi.org/10.1007/s10103-023-03803-4  
+
+Forsey, J. D., Merrigan, J. J., Stone, J. D., Stephenson, M. D., Ramadan, J., Galster, S. M., Bryner, R. W., & Hagen, J. A. (2023). Whole-body photobiomodulation improves post-exercise recovery but does not affect performance or physiological response during maximal anaerobic cycling. Lasers in Medical Science, 38(1), 111. https://doi.org/10.1007/s10103-023-03759-5  
+
+González-Muñoz, A., Perez-Montilla, J. J., Cuevas-Cervera, M., Aguilar-García, M., Aguilar-Nuñez, D., Hamed-Hamed, D., Pruimboom, L., & Navarro-Ledesma, S. (2023). Effects of Photobiomodulation in Sports Performance: A Literature Review. Applied Sciences, 13(5), 3147. https://doi.org/10.3390/app13053147  
+
+Hamblin, M. R. (2022). Traditional or Infrared Saunas and Photobiomodulation: What Do They Have in Common? Photobiomodulation, Photomedicine, and Laser Surgery, 40(9), 595–596. https://doi.org/10.1089/photob.2022.0078  
+
+Leal-Junior, E. C. P., de Oliveira, M. F. D., Joensen, J., Stausholm, M. B., Bjordal, J. M., & Tomazoni, S. S. (2020). What is the optimal time-response window for the use of photobiomodulation therapy combined with static magnetic field (PBMT-sMF) for the improvement of exercise performance and recovery, and for how long the effects last? A randomized, triple-blinded, placebo-controlled trial. BMC Sports Science, Medicine and Rehabilitation, 12(1), 64. https://doi.org/10.1186/s13102-020-00214-8  
+
+Neto, R. P. M., Espósito, L. M. B., Da Rocha, F. C., Filho, A. A. S., Silva, J. H. G., De Sousa Santos, E. C., Sousa, B. L. S. C., Dos Santos Gonçalves, K. R. R., Garcia‐Araujo, A. S., Hamblin, M. R., & Ferraresi, C. (2024). Photobiomodulation therapy (red/ NIR LEDs ) reduced the length of stay in intensive care unit and improved muscle function: A randomized, triple‐blind, and sham‐controlled trial. Journal of Biophotonics, e202300501. https://doi.org/10.1002/jbio.202300501  
+
+Pinto, H. D., Vanin, A. A., Miranda, E. F., Tomazoni, S. S., Johnson, D. S., Albuquerque-Pontes, G. M., Aleixo, I. de O., Grandinetti, V. dos S., Casalechi, H. L., de Carvalho, P. de T. C., & Leal Junior, E. C. P. (2016). Photobiomodulation Therapy Improves Performance and Accelerates Recovery of High-Level Rugby Players in Field Test: A Randomized, Crossover, Double-Blind, Placebo-Controlled Clinical Study. Journal of Strength and Conditioning Research, 30(12), 3329–3338. https://doi.org/10.1519/JSC.0000000000001439  
+
+Rentz, L. E., Bryner, R. W., Ramadan, J., Rezai, A., & Galster, S. M. (2022). Full-Body Photobiomodulation Therapy Is Associated with Reduced Sleep Durations and Augmented Cardiorespiratory Indicators of Recovery. Sports, 10(8), 119. https://doi.org/10.3390/sports10080119  
+
+Rossato, M., Dellagrana, R. A., Sakugawa, R. L., Lazzari, C. D., Baroni, B. M., & Diefenthaeler, F. (2018). Time Response of Photobiomodulation Therapy on Muscular Fatigue in Humans. Journal of Strength and Conditioning Research, 32(11), 3285–3293. https://doi.org/10.1519/JSC.0000000000002339  
+
+Salehpour, F., Majdi, A., Pazhuhi, M., Ghasemi, F., Khademi, M., Pashazadeh, F., Hamblin, M. R., & Cassano, P. (2019). Transcranial Photobiomodulation Improves Cognitive Performance in Young Healthy Adults: A Systematic Review and Meta-Analysis. Photobiomodulation, Photomedicine, and Laser Surgery, 37(10), 635–643. https://doi.org/10.1089/photob.2019.4673  
+
+Vanin, A. A., Verhagen, E., Barboza, S. D., Costa, L. O. P., & Leal-Junior, E. C. P. (2018). Photobiomodulation therapy for the improvement of muscular performance and reduction of muscular fatigue associated with exercise in healthy people: A systematic review and meta-analysis. Lasers in Medical Science, 33(1), 181–214. https://doi.org/10.1007/s10103-017-2368-6  
+
+Zagatto, A. M., Dutra, Y. M., Lira, F. S., Antunes, B. M., Faustini, J. B., Malta, E. D. S., Lopes, V. H. F., De Poli, R. A. B., Brisola, G. M. P., Dos Santos, G. V., Rodrigues, F. M., & Ferraresi, C. (2020). Full Body Photobiomodulation Therapy to Induce Faster Muscle Recovery in Water Polo Athletes: Preliminary Results. Photobiomodulation, Photomedicine, and Laser Surgery, 38(12), 766–772. https://doi.org/10.1089/photob.2020.4803  
+
+Zhao, J., Tian, Y., Nie, J., Xu, J., & Liu, D. (2012). Red Light and the Sleep Quality and Endurance Performance of Chinese Female Basketball Players. Journal of Athletic Training, 47(6), 673–678. https://doi.org/10.4085/1062-6050-47.6.08
+
