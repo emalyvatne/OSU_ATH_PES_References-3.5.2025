@@ -1,1 +1,9 @@
-# OSU_ATH_PES_References-3.5.2025
+# 📚 **References**  
+### *OSU ATH PES - March 5, 2025*  
+
+Emaly Vatne
+Ohio State Sport Science
+
+---
+
+## 📝 **1. Journal Articles** 
