@@ -28,6 +28,8 @@ Jonsson, K., & Kjellgren, A. (2017). Characterizing the experiences of flotation
 
 Kinugasa, T., & Kilding, A. E. (2009). A comparison of post-match recovery strategies in youth soccer players. Journal of Strength and Conditioning Research, 23(5), 1402–1407. https://doi.org/10.1519/JSC.0b013e3181a0226a  
 
+Maia, F., Nakamura, F. Y., Sarmento, H., Marcelino, R., & Ribeiro, J. (2024). Effects of lower-limb intermittent pneumatic compression on sports recovery: A systematic review and meta-analysis. Biology of Sport, 41(4), 263–275. https://doi.org/10.5114/biolsport.2024.133665
+
 Nédélec, M., McCall, A., Carling, C., Legall, F., Berthoin, S., & Dupont, G. (2013). Recovery in Soccer: Part II—Recovery Strategies. Sports Medicine, 43(1), 9–22. https://doi.org/10.1007/s40279-012-0002-0  
 
 Peake, J. M., Neubauer, O., Della Gatta, P. A., & Nosaka, K. (2017). Muscle damage and inflammation during recovery from exercise. Journal of Applied Physiology, 122(3), 559–570. https://doi.org/10.1152/japplphysiol.00971.2016  
