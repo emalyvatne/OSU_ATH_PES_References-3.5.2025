@@ -6,4 +6,4 @@ Ohio State Sport Science
 
 ---
 
-## 📝 **1. Journal Articles** 
+## 📝 
