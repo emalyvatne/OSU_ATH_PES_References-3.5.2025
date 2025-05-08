@@ -1,8 +1,54 @@
 # 📚 **References**  
-### *OSU Athletics Performance Education Series - March 5, 2025*  
 
 Emaly Vatne  
 Ohio State Sport Science
+
+## RECOVERY INFOGRAPHICS REFERENCES
+
+1. Ailioaie, L. M., & Litscher, G. (2021). Photobiomodulation and Sports: Results of a Narrative Review. Life, 11(12), 1339. https://doi.org/10.3390/life11121339  
+
+2. Aver Vanin, A., De Marchi, T., Silva Tomazoni, S., Tairova, O., Leão Casalechi, H., De Tarso Camillo De Carvalho, P., Bjordal, J. M., & Leal-Junior, E. C. (2016). Pre-Exercise Infrared Low-Level Laser Therapy (810 nm) in Skeletal Muscle Performance and Postexercise Recovery in Humans, What Is the Optimal Dose? A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Photomedicine and Laser Surgery, 34(10), 473–482. https://doi.org/10.1089/pho.2015.3992  
+
+3. de Paiva, P. R. V., Tomazoni, S. S., Johnson, D. S., Vanin, A. A., Albuquerque-Pontes, G. M., Machado, C. dos S. M., Casalechi, H. L., de Carvalho, P. de T. C., & Leal-Junior, E. C. P. (2016). Photobiomodulation therapy (PBMT) and/or cryotherapy in skeletal muscle restitution, what is better? A randomized, double-blinded, placebo-controlled clinical trial. Lasers in Medical Science, 31(9), 1925–1933. https://doi.org/10.1007/s10103-016-2071-z  
+
+4. Ferlito, J. V., Ferlito, M. V., Leal-Junior, E. C. P., Tomazoni, S. S., & De Marchi, T. (2021). Comparison between cryotherapy and photobiomodulation in muscle recovery: A systematic review and meta-analysis. Lasers in Medical Science, 37(3), 1375–1388. https://doi.org/10.1007/s10103-021-03442-7  
+
+5. Ferraresi, C., Huang, Y.-Y., & Hamblin, M. R. (2016). Photobiomodulation in human muscle tissue: An advantage in sports performance? Journal of Biophotonics, 9(11–12), 1273–1299. https://doi.org/10.1002/jbio.201600176  
+
+6. Flores, L. J. F., De Souza Campos, F., Baumann, L., Weber, M. G., Barazetti, L. K., Nampo, F. K., & De Paula Ramos, S. (2023). Photobiomodulation does not improve anaerobic performance in well-trained cyclists. Lasers in Medical Science, 38(1), 134. https://doi.org/10.1007/s10103-023-03803-4  
+
+7. Forsey, J. D., Merrigan, J. J., Stone, J. D., Stephenson, M. D., Ramadan, J., Galster, S. M., Bryner, R. W., & Hagen, J. A. (2023). Whole-body photobiomodulation improves post-exercise recovery but does not affect performance or physiological response during maximal anaerobic cycling. Lasers in Medical Science, 38(1), 111. https://doi.org/10.1007/s10103-023-03759-5  
+
+8. Lastella, M., Halson, S. L., Vitale, J. A., Memon, A. R., & Vincent, G. E. (2021). To Nap or Not to Nap? A Systematic Review Evaluating Napping Behavior in Athletes and the Impact on Various Measures of Athletic Performance. Nature and Science of Sleep, Volume 13, 841–862. https://doi.org/10.2147/NSS.S315556
+
+9. Broderick, V., Uiga, L., & Driller, M. (2019). Flotation-restricted environmental stimulation therapy improves sleep and performance recovery in athletes. Performance Enhancement & Health, 7(1–2), 100149. https://doi.org/10.1016/j.peh.2019.100149
+
+10. Caldwell, L. K. (2019). The Influence of Acute Flotation-Restricted Environmental Stimulation Therapy on Recovery from High Intensity Resistance Exercise [The Ohio State University]. https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu1574672585011734
+   
+11. Driller, M. W., & Argus, C. K. (2016). Flotation restricted environmental stimulation therapy and napping on mood state and muscle soreness in elite athletes: A novel recovery strategy? Performance Enhancement & Health, 5(2), 60–65. https://doi.org/10.1016/j.peh.2016.08.002
+   
+12. McAleney, P. J., Barabasz, A., & Barabasz, M. (1990). Effects of Flotation Restricted Environmental Stimulation on Intercollegiate Tennis Performance. Perceptual and Motor Skills, 71(3), 1023–1028. https://doi.org/10.2466/pms.1990.71.3.1023
+Morgan, P. M., Salacinski, A. J., & Stults-Kolehmainen, M. A. (2013). The Acute Effects of Flotation Restricted Environmental Stimulation Technique on Recovery From Maximal Eccentric Exercise. Journal of Strength and Conditioning Research, 27(12), 3467–3474. https://doi.org/10.1519/JSC.0b013e31828f277e
+
+13. Vatne, E, Merrigan, JJ, Stone, JD, Saenz, C, Kraemer, WJ, and Hagen, JA. Effects of daytime floatation-restricted environmental stimulation therapy on nocturnal cardiovascular physiology, sleep, and subjective recovery in collegiate student-athletes: A Comprehensive Observational Study. J Strength Cond Res XX(X): 000–000, 2025
+
+14. Ahokas, E. K., Hanstock, H. G., Kyröläinen, H., & Ihalainen, J. K. (2025). Effects of repeated use of post-exercise infrared sauna on neuromuscular performance and muscle hypertrophy. Frontiers in Sports and Active Living, 7, 1462901. https://doi.org/10.3389/fspor.2025.1462901
+
+15. Ahokas, E. K., Ihalainen, J., Hanstock, H. G., Savolainen, E., & Kyröläinen, H. (2022). A post-exercise infrared sauna session improves recovery of neuromuscular performance and muscle soreness after resistance exercise training. Biology of Sport, 40(3), 681–689. https://doi.org/10.5114/biolsport.2023.119289,15
+
+16. Brunt, V. E., & Minson, C. T. (2021). Heat therapy: Mechanistic underpinnings and applications to cardiovascular health. Journal of Applied Physiology, 130(6), 1684–1704. https://doi.org/10.1152/japplphysiol.00141.2020
+
+17. Kunutsor, S. K., & Laukkanen, J. A. (2023). Does the Combination of Finnish Sauna Bathing and Other Lifestyle Factors Confer Additional Health Benefits? A Review of the Evidence. Mayo Clinic Proceedings, 98(6), 915–926. https://doi.org/10.1016/j.mayocp.2023.01.008
+
+18. Lee, E., Kolunsarka, I., Kostensalo, J., Ahtiainen, J. P., Haapala, E. A., Willeit, P., Kunutsor, S. K., & Laukkanen, J. A. (2022). Effects of regular sauna bathing in conjunction with exercise on cardiovascular function: A multi-arm, randomized controlled trial. American Journal of Physiology - Regulatory, Integrative and Comparative Physiology, 323(3), R289–R299. https://doi.org/10.1152/ajpregu.00076.2022
+
+19. Pilch, W., Pokora, I., Szyguła, Z., Pałka, T., Pilch, P., Cisoń, T., Malik, L., & Wiecha, S. (2013). Effect of a single finnish sauna session on white blood cell profile and cortisol levels in athletes and non-athletes. Journal of Human Kinetics, 39, 127–135. https://doi.org/10.2478/hukin-2013-0075
+
+20. Rissanen, J. A., Häkkinen, A., Laukkanen, J., Kraemer, W. J., & Häkkinen, K. (2020). Acute Neuromuscular and Hormonal Responses to Different Exercise Loadings Followed by a Sauna. Journal of strength and conditioning research, 34(2), 313–322. https://doi.org/10.1519/JSC.0000000000003371
+
+22. Scoon, G. S. M., Hopkins, W. G., Mayhew, S., & Cotter, J. D. (2007). Effect of post-exercise sauna bathing on the endurance performance of competitive male runners. Journal of Science and Medicine in Sport, 10(4), 259–262. https://doi.org/10.1016/j.jsams.2006.06.009
+
+23. Stanley, J., Halliday, A., D’Auria, S., Buchheit, M., & Leicht, A. S. (2015). Effect of sauna-based heat acclimation on plasma volume and heart rate variability. European Journal of Applied Physiology, 115(4), 785–794. https://doi.org/10.1007/s00421-014-3060-1
 
 ---
 
