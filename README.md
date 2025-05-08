@@ -97,3 +97,24 @@ Zagatto, A. M., Dutra, Y. M., Lira, F. S., Antunes, B. M., Faustini, J. B., Malt
 
 Zhao, J., Tian, Y., Nie, J., Xu, J., & Liu, D. (2012). Red Light and the Sleep Quality and Endurance Performance of Chinese Female Basketball Players. Journal of Athletic Training, 47(6), 673–678. https://doi.org/10.4085/1062-6050-47.6.08
 
+## SAUNA
+
+Ahokas, E. K., Hanstock, H. G., Kyröläinen, H., & Ihalainen, J. K. (2025). Effects of repeated use of post-exercise infrared sauna on neuromuscular performance and muscle hypertrophy. Frontiers in Sports and Active Living, 7, 1462901. https://doi.org/10.3389/fspor.2025.1462901
+
+Ahokas, E. K., Ihalainen, J., Hanstock, H. G., Savolainen, E., & Kyröläinen, H. (2022). A post-exercise infrared sauna session improves recovery of neuromuscular performance and muscle soreness after resistance exercise training. Biology of Sport, 40(3), 681–689. https://doi.org/10.5114/biolsport.2023.119289
+
+Brunt, V. E., & Minson, C. T. (2021). Heat therapy: Mechanistic underpinnings and applications to cardiovascular health. Journal of Applied Physiology, 130(6), 1684–1704. https://doi.org/10.1152/japplphysiol.00141.2020
+
+Ernst, E., Pecho, E., Wirz, P., & Saradeth, T. (1990). Regular sauna bathing and the incidence of common colds. Annals of Medicine, 22(4), 225–227. https://doi.org/10.3109/07853899009148930
+
+Kunutsor, S. K., & Laukkanen, J. A. (2023). Does the Combination of Finnish Sauna Bathing and Other Lifestyle Factors Confer Additional Health Benefits? A Review of the Evidence. Mayo Clinic Proceedings, 98(6), 915–926. https://doi.org/10.1016/j.mayocp.2023.01.008
+
+Lee, E., Kolunsarka, I., Kostensalo, J., Ahtiainen, J. P., Haapala, E. A., Willeit, P., Kunutsor, S. K., & Laukkanen, J. A. (2022). Effects of regular sauna bathing in conjunction with exercise on cardiovascular function: A multi-arm, randomized controlled trial. American Journal of Physiology - Regulatory, Integrative and Comparative Physiology, 323(3), R289–R299. https://doi.org/10.1152/ajpregu.00076.2022
+
+Pilch, W., Pokora, I., Szyguła, Z., Pałka, T., Pilch, P., Cisoń, T., Malik, L., & Wiecha, S. (2013). Effect of a single finnish sauna session on white blood cell profile and cortisol levels in athletes and non-athletes. Journal of Human Kinetics, 39, 127–135. https://doi.org/10.2478/hukin-2013-0075
+
+Rissanen, J. A., Häkkinen, A., Laukkanen, J., Kraemer, W. J., & Häkkinen, K. (2020). Acute Neuromuscular and Hormonal Responses to Different Exercise Loadings Followed by a Sauna. Journal of strength and conditioning research, 34(2), 313–322. https://doi.org/10.1519/JSC.0000000000003371
+
+Scoon, G. S. M., Hopkins, W. G., Mayhew, S., & Cotter, J. D. (2007). Effect of post-exercise sauna bathing on the endurance performance of competitive male runners. Journal of Science and Medicine in Sport, 10(4), 259–262. https://doi.org/10.1016/j.jsams.2006.06.009
+
+Stanley, J., Halliday, A., D’Auria, S., Buchheit, M., & Leicht, A. S. (2015). Effect of sauna-based heat acclimation on plasma volume and heart rate variability. European Journal of Applied Physiology, 115(4), 785–794. https://doi.org/10.1007/s00421-014-3060-1
